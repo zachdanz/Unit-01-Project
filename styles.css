@@ -77,6 +77,12 @@ article {
   transition: all .5s;
 }
 
+.article-image{
+  max-width: 450px;
+  max-height: 250px;
+  border: solid black 3px 
+}
+
 header .profile-image {
   margin-top: 50px;
   width: 150px;
