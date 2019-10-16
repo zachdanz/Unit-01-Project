@@ -65,6 +65,18 @@ header {
 header {
   line-height: 1.5;
 }
+
+article {
+  margin: 30px;
+  padding: 20px 40px 40px;
+  max-width: 1000px;
+  text-align: left;
+  background: #fff;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  transition: all .5s;
+}
+
 header .profile-image {
   margin-top: 50px;
   width: 150px;
