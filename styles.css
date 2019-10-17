@@ -105,7 +105,7 @@ header .profile-image {
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.2) rotate(180deg);
 }
 .tag {
   background-color: #efefef;
